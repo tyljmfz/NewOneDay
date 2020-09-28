@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Statistic">
+    <option name="excludedDirectories">
+      <list>
+        <option value="$PROJECT_DIR$/app/build" />
+        <option value="$PROJECT_DIR$/.idea" />
+        <option value="$PROJECT_DIR$/.gradle" />
+        <option value="$PROJECT_DIR$/app/src/androidTest" />
+        <option value="$PROJECT_DIR$/app/libs" />
+        <option value="$PROJECT_DIR$/app/build" />
+        <option value="$PROJECT_DIR$/app/src/test" />
+        <option value="$PROJECT_DIR$/bmob-android-sdk-demo" />
+        <option value="$PROJECT_DIR$/__MACOSX" />
+        <option value="$PROJECT_DIR$/imdemo" />
+        <option value="$PROJECT_DIR$/.gradle" />
+        <option value="$PROJECT_DIR$/BmobNewIM_v2.1.1" />
+        <option value="$PROJECT_DIR$/app/release" />
+      </list>
+    </option>
+  </component>
+</project>

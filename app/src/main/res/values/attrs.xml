@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TickView">
+        <attr name="checked_color" format="color"/>
+        <attr name="checked" format="boolean"/>
+        <attr name="radius" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="Phonograph">
+        <attr name="picture_radius" format="dimension"/>
+        <attr name="src" format="reference"/>
+        <attr name="disk_rotate_speed" format="float"/>
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_one"
+            android:icon="@drawable/beauty_list"
+            android:title="主页面"/>
+        <item
+            android:id="@+id/nav_two"
+            android:icon="@drawable/heart"
+            android:title="登录/注册"/>
+
+        <item
+            android:id="@+id/nav_three"
+            android:icon="@drawable/heart"
+            android:title="创建新目标"/>
+
+        <item
+            android:id="@+id/nav_four"
+            android:icon="@drawable/heart"
+            android:title="查看当前目标"/>
+
+        <item
+            android:id="@+id/nav_five"
+            android:icon="@drawable/heart"
+            android:title="寻找朋友"/>
+
+        <item
+            android:id="@+id/nav_six"
+            android:icon="@drawable/heart"
+            android:title="好友请求列表"/>
+        <item
+            android:id="@+id/nav_seven"
+            android:icon="@drawable/heart"
+            android:title="好友列表"/>
+
+        <item
+            android:id="@+id/nav_eight"
+            android:icon="@drawable/heart"
+            android:title="上传图片"/>
+
+
+        <item
+            android:id="@+id/nav_qrcode"
+            android:icon="@drawable/heart"
+            android:title="二维码扫描"/>
+
+        <item
+            android:id="@+id/nav_log_out"
+            android:icon="@drawable/heart"
+            android:title="退出登录"/>
+
+    </group>
+</menu>
